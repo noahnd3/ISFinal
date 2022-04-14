@@ -1,0 +1,58 @@
+/*My custom styles Noah Davis 4/12/2022*/
+body {
+    background-image:url(../images/contact-bg.jpg);
+    font-weight: bolder;
+}
+.Space {
+    color:rgb(117, 117, 117);
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: none;
+}
+.Bigboy {
+    color:black;
+    font-weight:bolder;
+    font-size: 40px;
+}
+.CenterPlz {
+    text-align: center;
+}
+.Something{
+    text-align: right;
+}
+
+.CenterPlzBig {
+    color:rgb(2, 2, 2);
+    font-weight:bolder;
+    font-size: 25px;
+    text-align: center;
+}
+.RightPlzBig {
+    color:rgb(2, 2, 2);
+    font-weight:bolder;
+    font-size: 25px;
+    text-align: right;
+}
+.LeftPlzBig {
+    color:rgb(2, 2, 2);
+    font-weight:bolder;
+    font-size: 25px;
+    text-align: left;
+}
+.Anotherone {
+    color:black;
+    font-weight:bolder;
+    font-size: 25px;
+    text-align:inherit;
+}
+.Contactinfo {
+    color:rgb(65, 64, 64);
+    font-weight:lighter;
+    font-size: 15px;
+    font-style: inherit;
+    text-align:center;
+}
+.Anchor{
+    position: fixed;
+    bottom:5px;
+}
